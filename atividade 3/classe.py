@@ -23,3 +23,4 @@ class Conta:
 
     def extrato(self):
         print('Conta\n Id:',self.idd, '\n  Nick:', self.nick, '\n   Cash:', self.cash, '\n    Level:', self.level)
+        
